@@ -1,0 +1,8 @@
+https://www.quora.com/What-exactly-causes-a-page-fault
+https://www.quora.com/What-does-the-TLB-do-in-computer-architecture#
+https://github.com/malcium/vm/blob/master/src/vm.c
+https://www.codeproject.com/Articles/1180826/Writing-Our-Own-Simple-Memory-Manager-In-C-Cpluspl
+https://www.ibm.com/developerworks/aix/tutorials/au-memorymanager/index.html
+https://en.wikipedia.org/wiki/Translation_lookaside_buffer
+https://www.geeksforgeeks.org/whats-difference-between-cpu-cache-and-tlb/
+https://en.wikipedia.org/wiki/Translation_lookaside_buffer
